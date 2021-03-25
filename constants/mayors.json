@@ -1,184 +1,207 @@
-[{
+[
+  {
     "name": "Barry",
     "role": "the Wizard",
-    "perks": [{
-            "name": "Magic XP Boost",
-            "description": "Gain 15% more Enchanting and Alchemy XP."
-        },
-        {
-            "name": "Arcane Catalyst",
-            "description": "Spells deal 15% increased damage."
-        },
-        {
-            "name": "Astral Negotiator",
-            "description": "Enchanting and anvils costs -15% less experience."
-        }
+    "perks": [
+      {
+        "name": "Magic XP Boost",
+        "description": "Gain 15% more Enchanting and Alchemy XP."
+      },
+      {
+        "name": "Arcane Catalyst",
+        "description": "Spells deal 15% increased damage."
+      },
+      {
+        "name": "Astral Negotiator",
+        "description": "Enchanting and anvils costs -15% less experience."
+      }
     ],
     "special": false
-}, {
+  },
+  {
     "name": "Cole",
     "role": "the Miner",
-    "perks": [{
-            "name": "Mining XP Buff",
-            "description": "Earn 2x Mining experience on public islands."
-        },
-        {
-            "name": "Prospection",
-            "description": "Mining minions work 25% faster."
-        },
-        {
-            "name": "Mining Fiesta",
-            "description": "Starts a special event in Early Autumn. Earn 1.5x Stone Pickaxe.png Mining exp, 2x drops and Unique Loot. Active only on public islands."
-        }
+    "perks": [
+      {
+        "name": "Mining Fiesta",
+        "description": "Schedules two Mining Fiesta events during the year! Earn 1.5x Mining exp, 2x drops and Unique Loot! Only active on public islands."
+      },
+      {
+        "name": "Mining XP Buff",
+        "description": "Earn 1.5x Mining experience on public islands."
+      },
+      {
+        "name": "Prospection",
+        "description": "Mining minions work 25% faster."
+      }
     ],
     "special": false
-}, {
+  },
+  {
     "name": "Paul",
     "role": "the Dungeon Explorer",
-    "perks": [{
-            "name": "EZPZ",
-            "description": "Gain 10 extra bonus score in Dungeons."
-        },
-        {
-            "name": "Marauder",
-            "description": "Dungeon reward chests are 20% cheaper."
-        },
-        {
-            "name": "Benediction",
-            "description": "Blessings are 25% stronger."
-        }
+    "perks": [
+      {
+        "name": "EZPZ",
+        "description": "Gain 10 extra bonus score in Dungeons."
+      },
+      {
+        "name": "Marauder",
+        "description": "Dungeon reward chests are 20% cheaper."
+      },
+      {
+        "name": "Benediction",
+        "description": "Blessings are 25% stronger."
+      }
     ],
     "special": false
-}, {
+  },
+  {
     "name": "Diana",
     "role": "the Mythological Pet Caretaker",
-    "perks": [{
-            "name": "Pet XP Buff",
-            "description": "Gain 35% more pet XP."
-        },
-        {
-            "name": "Lucky!",
-            "description": "Gain +25 Pet Luck."
-        },
-        {
-            "name": "Mythological Ritual",
-            "description": "Mayor Diana will sell the Griffin Pet, which lets you find Mythological Creatures and tons of unique items."
-        }
+    "perks": [
+      {
+        "name": "Pet XP Buff",
+        "description": "Gain 35% more pet XP."
+      },
+      {
+        "name": "Lucky!",
+        "description": "Gain +25 Pet Luck."
+      },
+      {
+        "name": "Mythological Ritual",
+        "description": "Mayor Diana will sell the Griffin Pet, which lets you find Mythological Creatures and tons of unique items."
+      }
     ],
     "special": false
-}, {
+  },
+  {
     "name": "Mariana",
     "role": "the Fisherwoman",
-    "perks": [{
-            "name": "Fishing XP Buff",
-            "description": "Gain 50% more fishing XP on public islands."
-        },
-        {
-            "name": "Luck of the Sea 2.0",
-            "description": "Gain +15 Sea Creature Chance."
-        },
-        {
-            "name": "Fishing Festival",
-            "description": "Start a special fishing event during the first 3 days of each month! Fish and fight dangerous Sharks and earn unique Shark loot."
-        }
+    "perks": [
+      {
+        "name": "Fishing XP Buff",
+        "description": "Gain 50% more fishing XP on public islands."
+      },
+      {
+        "name": "Luck of the Sea 2.0",
+        "description": "Gain +15 Sea Creature Chance."
+      },
+      {
+        "name": "Fishing Festival",
+        "description": "Start a special fishing event during the first 3 days of each month! Fish and fight dangerous Sharks and earn unique Shark loot."
+      }
     ],
     "special": false
-}, {
+  },
+  {
     "name": "Aatrox",
     "role": "Maddox's Brother-in-Law",
-    "perks": [{
-            "name": "Slayer XP Buff",
-            "description": "Earn 25% more Slayer XP."
-        },
-        {
-            "name": "Pathfinder",
-            "description": "Gain rare drops 20% more often."
-        },
-        {
-            "name": "SLASHED Pricing",
-            "description": "Starting Slayer quests is half price."
-        }
+    "perks": [
+      {
+        "name": "Slayer XP Buff",
+        "description": "Earn 25% more Slayer XP."
+      },
+      {
+        "name": "Pathfinder",
+        "description": "Gain rare drops 20% more often."
+      },
+      {
+        "name": "SLASHED Pricing",
+        "description": "Starting Slayer quests is half price."
+      }
     ],
     "special": false
-}, {
+  },
+  {
     "name": "Foxy",
     "role": "the Event Girl",
-    "perks": [{
-            "name": "Sweet Tooth",
-            "description": "Grants +20% chance to get candy from mobs during the Spooky Festival."
-        },
-        {
-            "name": "Benevolence",
-            "description": "Gain 2.5x gifts from the attack on Jerry's Workshop."
-        },
-        {
-            "name": "Extra Event",
-            "description": "Schedules an extra event during the year."
-        }
+    "perks": [
+      {
+        "name": "Sweet Tooth",
+        "description": "Grants +20% chance to get candy from mobs during the Spooky Festival."
+      },
+      {
+        "name": "Benevolence",
+        "description": "Gain 2.5x gifts from the attack on Jerry's Workshop."
+      },
+      {
+        "name": "Extra Event",
+        "description": "Schedules an extra event during the year."
+      }
     ],
     "special": false
-}, {
+  },
+  {
     "name": "Diaz",
     "role": "the Economist",
-    "perks": [{
-            "name": "Barrier Street",
-            "description": "Gain 25% more bank interest."
-        },
-        {
-            "name": "Shopping Spree",
-            "description": "Increase daily NPC buy limits by 10x."
-        }
+    "perks": [
+      {
+        "name": "Barrier Street",
+        "description": "Gain 25% more bank interest."
+      },
+      {
+        "name": "Shopping Spree",
+        "description": "Increase daily NPC buy limits by 10x."
+      }
     ],
     "special": false
-}, {
+  },
+  {
     "name": "Scorpius",
     "role": "",
-    "perks": [{
-            "name": "Bribe",
-            "description": "If Scorpius wins and you voted for him, Mayor Scorpius will offer you 50,000 coins - 1,000,000 coins as a token of gratitude."
-        },
-        {
-            "name": "Darker Auctions",
-            "description": "Scorpius will intrude in Dark Auctions, increasing the number of rounds to 7 and offering special items."
-        }
+    "perks": [
+      {
+        "name": "Bribe",
+        "description": "If Scorpius wins and you voted for him, Mayor Scorpius will offer you 50,000 coins - 1,000,000 coins as a token of gratitude."
+      },
+      {
+        "name": "Darker Auctions",
+        "description": "Scorpius will intrude in Dark Auctions, increasing the number of rounds to 7 and offering special items."
+      }
     ],
     "special": true
-}, {
+  },
+  {
     "name": "Derpy",
     "role": "",
-    "perks": [{
-            "name": "TURBO MINIONS!!!",
-            "description": "Minions have double the output!"
-        },
-        {
-            "name": "AH CLOSED!!!",
-            "description": "The Auction House will be closed while Derpy is elected!"
-        },
-        {
-            "name": "DOUBLE MOBS HP!!!",
-            "description": "ALL monsters have double health!"
-        },
-        {
-            "name": "MOAR SKILLZ!",
-            "description": "Gain +50% more skill experience!"
-        }
+    "perks": [
+      {
+        "name": "TURBO MINIONS!!!",
+        "description": "Minions have double the output!"
+      },
+      {
+        "name": "AH CLOSED!!!",
+        "description": "The Auction House will be closed while Derpy is elected!"
+      },
+      {
+        "name": "DOUBLE MOBS HP!!!",
+        "description": "ALL monsters have double health!"
+      },
+      {
+        "name": "MOAR SKILLZ!",
+        "description": "Gain +50% more skill experience!"
+      }
     ],
     "special": true
-}, {
+  },
+  {
     "name": "Jerry",
     "role": "",
-    "perks": [{
-            "name": "Perkpocalypse",
-            "description": "Activates all perks of another mayor every 18 SkyBlock days (6 hours)."
-        },
-        {
-            "name": "Statspocalypse",
-            "description": "Increases all stats by 10%."
-        },
-        {
-            "name": "Jerrypocalypse",
-            "description": "Reveal hidden Jerries from logging, farming, mining, and killing mobs."
-        }
+    "perks": [
+      {
+        "name": "Perkpocalypse",
+        "description": "Activates all perks of another mayor every 18 SkyBlock days (6 hours)."
+      },
+      {
+        "name": "Statspocalypse",
+        "description": "Increases all stats by 10%."
+      },
+      {
+        "name": "Jerrypocalypse",
+        "description": "Reveal hidden Jerries from logging, farming, mining, and killing mobs."
+      }
     ],
     "special": true
-}]
+  }
+]
