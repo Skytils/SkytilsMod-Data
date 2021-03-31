@@ -203,5 +203,24 @@
       }
     ],
     "special": true
+  },
+  {
+    "name": "Dante",
+    "role": "",
+    "perks": [
+      {
+        "name": "Order",
+        "description": "Establish order"
+      },
+      {
+        "name": "Security",
+        "description": "Strengthen security"
+      },
+      {
+        "name": "Freedom",
+        "description": "Freedom from fear"
+      }
+    ],
+    "special": true
   }
 ]
