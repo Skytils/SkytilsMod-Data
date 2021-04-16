@@ -222,5 +222,32 @@
       }
     ],
     "special": true
+  },
+  {
+    "name": "Technoblade",
+    "role": "",
+    "perks": [
+      {
+        "name": "Blood God's Blessing",
+        "description": "Gain +50% more skill experience!"
+      },
+      {
+        "name": "Shrine of the Blood God",
+        "description": "Summons the Blood God Shrine and its shiny pigs."
+      },
+      {
+        "name": "Unlimited Speed",
+        "description": "Grants everyone +50 Speed! The speed cap will be removed but speed above 400 will be halved."
+      },
+      {
+        "name": "Potato Crown's Radiance",
+        "description": "Farming minions have double the output!"
+      },
+      {
+        "name": "Anarchy",
+        "description": "There are no taxes in the Auction House and Bazaar."
+      }
+    ],
+    "special": true
   }
 ]
