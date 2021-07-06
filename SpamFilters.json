@@ -1,0 +1,12 @@
+[
+  {
+    "name" : "Griffin Burrow Dug",
+    "type" : "STARTSWITH",
+    "pattern" : "§r§eYou dug out a Griffin Burrow!"
+  },
+  {
+    "name" : "Griffin Burrow Start",
+    "type" : "STARTSWITH",
+    "pattern" : "§r§eFollow the arrows to find the §r§6treasure§r§e!§r"
+  }
+]
