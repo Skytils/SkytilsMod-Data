@@ -5,5 +5,6 @@
   "giant" : "https://cdn.jsdelivr.net/gh/Skytils/SkytilsMod-Data@main/assets/summons/zombie_commander.png",
   "spiritbear" : "https://cdn.jsdelivr.net/gh/Skytils/SkytilsMod-Data@main/assets/summons/spirit_bear.png",
   "grinmreaper" : "https://cdn.jsdelivr.net/gh/Skytils/SkytilsMod-Data@main/assets/summons/grim_reaper.png",
-  "kingmidas" : "https://cdn.jsdelivr.net/gh/Skytils/SkytilsMod-Data@main/assets/summons/king_midas.png"
+  "kingmidas" : "https://cdn.jsdelivr.net/gh/Skytils/SkytilsMod-Data@main/assets/summons/king_midas.png",
+  "undead" : "https://cdn.jsdelivr.net/gh/Skytils/SkytilsMod-Data@main/assets/summons/undead.png"
 }
