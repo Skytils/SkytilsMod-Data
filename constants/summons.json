@@ -1,6 +1,7 @@
 {
-  "angryarcheologist" : "https://skyblock-npcs.matdoes.dev/skin/angry_archeologist",
-  "zombiecommander" : "https://skyblock-npcs.matdoes.dev/skin/zombie_commander",
-  "frozenadventurer" : "https://skyblock-npcs.matdoes.dev/skin/frozen_adventurer",
-  "giant" : "https://skyblock-npcs.matdoes.dev/skin/zombie_commander"
+  "angryarcheologist" : "https://cdn.jsdelivr.net/gh/Skytils/SkytilsMod-Data@main/assets/summons/angry_archeologist.png",
+  "zombiecommander" : "https://cdn.jsdelivr.net/gh/Skytils/SkytilsMod-Data@main/assets/summons/zombie_commander.png",
+  "frozenadventurer" : "https://cdn.jsdelivr.net/gh/Skytils/SkytilsMod-Data@main/assets/summons/frozen_adventurer.png",
+  "giant" : "https://cdn.jsdelivr.net/gh/Skytils/SkytilsMod-Data@main/assets/summons/zombie_commander.png",
+  "spiritbear" : "https://cdn.jsdelivr.net/gh/Skytils/SkytilsMod-Data@main/assets/summons/spirit_bear.png"
 }
