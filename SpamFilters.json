@@ -13,5 +13,10 @@
     "name": "Pristine",
     "type": "STARTSWITH",
     "pattern": "§r§d§lPRISTINE!"
+  },
+  {
+    "name": "Useless Bazaar Text",
+    "type": "REGEX",
+    "pattern": "§r§(?:7|c)(?:Claiming order\\.\\.\\.)?(?:Executing instant buy\\.\\.\\.)?(?:Putting (?:coins|goods) in escrow\\.\\.\\.)?(?:Checking escrow for recent transaction\\.\\.\\.)?(?:Submitting (?:buy|sell) (?:order|offer)\\.\\.\\.)?(?:The sell orders for this item changed too much!)?(?:Couldn\u0027t match the quoted price!)?(?:Seems like a volatile market!)?§r"
   }
 ]
