@@ -2,16 +2,19 @@
   {
     "name": "Griffin Burrow Dug",
     "type": "STARTSWITH",
-    "pattern": "§r§eYou dug out a Griffin Burrow!"
+    "pattern": "§r§eYou dug out a Griffin Burrow!",
+    "formatted": true
   },
   {
     "name": "Griffin Burrow Start",
     "type": "STARTSWITH",
-    "pattern": "§r§eFollow the arrows to find the §r§6treasure§r§e!§r"
+    "pattern": "§r§eFollow the arrows to find the §r§6treasure§r§e!§r",
+    "formatted": true
   },
   {
     "name": "Pristine",
     "type": "STARTSWITH",
-    "pattern": "§r§d§lPRISTINE!"
+    "pattern": "§r§d§lPRISTINE!",
+    "formatted": true
   }
 ]
