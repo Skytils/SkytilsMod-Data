@@ -16,5 +16,18 @@
     "type": "STARTSWITH",
     "pattern": "§r§d§lPRISTINE!",
     "formatted": true
+  },
+  {
+    "name": "Useless Bazaar Text",
+    "type": "REGEX",
+    "pattern": "§r§(?:7|c)(?:Claiming order\\.\\.\\.)?(?:Executing instant buy\\.\\.\\.)?(?:Putting (?:coins|goods) in escrow\\.\\.\\.)?(?:Checking escrow for recent transaction\\.\\.\\.)?(?:Submitting (?:buy|sell) (?:order|offer)\\.\\.\\.)?(?:The sell orders for this item changed too much!)?(?:Couldn\u0027t match the quoted price!)?(?:Seems like a volatile market!)?§r",
+    "formatted": true
+  },
+  {
+    "name": "Hype Text",
+    "type": "REGEX",
+    "pattern": "(§r)*  §r§f§l➤ §r§6You have reached your Hype limit! Add Hype to Prototype Lobby minigames by right-clicking with the Hype Diamond!§r",
+    "formatted": true
   }
 ]
+
