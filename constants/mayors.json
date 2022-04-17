@@ -5,15 +5,15 @@
     "perks": [
       {
         "name": "Magic XP Boost",
-        "description": "Gain 15% more Enchanting and Alchemy XP."
+        "description": "Gain 15% more Enchanting and Alchemy XP.\nSecret Bonus: Gain +2 Clicks in SuperPairs Experiments"
       },
       {
         "name": "Arcane Catalyst",
-        "description": "Spells deal 15% increased damage."
+        "description": "Spells deal 15% increased damage.\nSecret Bonus: All abilities cost 15% less Mana"
       },
       {
         "name": "Astral Negotiator",
-        "description": "Enchanting and anvils costs -15% less experience."
+        "description": "Enchanting and anvils costs -15% less experience.\nSecret Bonus: Gain +1 Magic Find for every year that Barry has not been elected (max 20)"
       }
     ],
     "special": false
