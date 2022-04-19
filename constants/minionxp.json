@@ -32,7 +32,7 @@
         "DIAMOND_BLOCK": 3.6,
         "ENCHANTED_DIAMOND": 64.0,
         "ENCHANTED_DIAMOND_BLOCK": 10240.0,
-        "NETHER_QUARTZ": 0.3,
+        "QUARTZ": 0.3,
         "BLOCK_OF_QUARTZ": 1.2,
         "ENCHANTED_QUARTZ": 48.0,
         "ENCHANTED_QUARTZ_BLOCK": 7680.0,
