@@ -57,7 +57,7 @@
         "SAND": 0.2,
         "GLASS": 0.0,
         "ENCHANTED_SAND": 32.0,
-        "MITHRIL": 0.4,
+        "MITHRIL_ORE": 0.4,
         "ENCHANTED_MITHRIL": 64.0,
         "HARD_STONE": 0.1,
         "ENCHANTED_HARD_STONE": 57.6,
