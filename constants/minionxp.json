@@ -19,7 +19,7 @@
         "INK_SACK:4": 0.1,
         "LAPIS_BLOCK": 0.9,
         "ENCHANTED_LAPIS_LAZULI": 16.0,
-        "ENCHANTED_LAPIS_BLOCK": 2560.0,
+        "ENCHANTED_LAPIS_LAZULI_BLOCK": 2560.0,
         "REDSTONE": 0.2,
         "BLOCK_OF_REDSTONE": 1.8,
         "ENCHANTED_REDSTONE": 32.0,
