@@ -665,7 +665,9 @@
       "goodLevel": 0,
       "maxLevel": 10,
       "statLabel": "compactedBlocks",
-      "stackLevel": [0, 100, 500, 1500, 5000, 15000, 50000, 150000, 500000, 1000000]
+      "stackLevel": [
+        0, 100, 500, 1500, 5000, 15000, 50000, 150000, 500000, 1000000
+      ]
     },
     "cultivating": {
       "loreName": "Cultivating",
@@ -674,7 +676,10 @@
       "goodLevel": 0,
       "maxLevel": 10,
       "statLabel": "cultivatedCrops",
-      "stackLevel": [0, 1000, 5000, 25000, 100000, 300000, 1500000, 5000000, 20000000, 100000000]
+      "stackLevel": [
+        0, 1000, 5000, 25000, 100000, 300000, 1500000, 5000000, 20000000,
+        100000000
+      ]
     },
     "expertise": {
       "loreName": "Expertise",
