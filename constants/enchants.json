@@ -54,6 +54,12 @@
       "goodLevel": 5,
       "maxLevel": 6
     },
+    "cayenne": {
+      "loreName": "Cayenne",
+      "nbtName": "cayenne",
+      "goodLevel": 4,
+      "maxLevel": 5
+    },
     "chance": {
       "loreName": "Chance",
       "nbtName": "chance",
@@ -105,6 +111,12 @@
     "depth strider": {
       "loreName": "Depth Strider",
       "nbtName": "depth_strider",
+      "goodLevel": 3,
+      "maxLevel": 3
+    },
+    "divine gift": {
+      "loreName": "Divine Gift",
+      "nbtName": "divine_gift",
       "goodLevel": 3,
       "maxLevel": 3
     },
@@ -300,6 +312,12 @@
       "goodLevel": 1,
       "maxLevel": 1
     },
+    "piscary": {
+      "loreName": "Piscary",
+      "nbtName": "piscary",
+      "goodLevel": 5,
+      "maxLevel": 6
+    },
     "power": {
       "loreName": "Power",
       "nbtName": "power",
@@ -438,11 +456,11 @@
       "goodLevel": 9,
       "maxLevel": 10
     },
-    "telekinesis": {
-      "loreName": "Telekinesis",
-      "nbtName": "telekinesis",
-      "goodLevel": 1,
-      "maxLevel": 1
+    "tabasco": {
+      "loreName": "Tabasco",
+      "nbtName": "tabasco",
+      "goodLevel": 2,
+      "maxLevel": 3
     },
     "thorns": {
       "loreName": "Thorns",
@@ -566,6 +584,12 @@
       "goodLevel": 0,
       "maxLevel": 5
     },
+    "bobbin time": {
+      "loreName": "Bobbin' Time",
+      "nbtName": "ultimate_bobbin_time",
+      "goodLevel": 3,
+      "maxLevel": 5
+    },
     "chimera": {
       "loreName": "Chimera",
       "nbtName": "ultimate_chimera",
@@ -600,6 +624,12 @@
       "loreName": "Fatal Tempo",
       "nbtName": "ultimate_fatal_tempo",
       "goodLevel": 0,
+      "maxLevel": 5
+    },
+    "habanero tactics": {
+      "loreName": "Habanero Tactics",
+      "nbtName": "ultimate_habanero_tactics",
+      "goodLevel": 4,
       "maxLevel": 5
     },
     "inferno": {
@@ -671,9 +701,7 @@
       "goodLevel": 0,
       "maxLevel": 10,
       "statLabel": "compactedBlocks",
-      "stackLevel": [
-        0, 100, 500, 1500, 5000, 15000, 50000, 150000, 500000, 1000000
-      ]
+      "stackLevel": [0, 100, 500, 1500, 5000, 15000, 50000, 150000, 500000, 1000000]
     },
     "cultivating": {
       "loreName": "Cultivating",
@@ -682,10 +710,7 @@
       "goodLevel": 0,
       "maxLevel": 10,
       "statLabel": "cultivatedCrops",
-      "stackLevel": [
-        0, 1000, 5000, 25000, 100000, 300000, 1500000, 5000000, 20000000,
-        100000000
-      ]
+      "stackLevel": [0, 1000, 5000, 25000, 100000, 300000, 1500000, 5000000, 20000000, 100000000]
     },
     "expertise": {
       "loreName": "Expertise",
@@ -695,6 +720,24 @@
       "maxLevel": 10,
       "statLabel": "expertiseKills",
       "stackLevel": [0, 50, 100, 250, 500, 1000, 2500, 5500, 10000, 15000]
+    },
+    "hecatomb": {
+      "loreName": "Hecatomb",
+      "nbtName": "hecatomb",
+      "nbtNum": "hecatomb_s_runs",
+      "goodLevel": 0,
+      "maxLevel": 10,
+      "statLabel": "hecatombsSRuns",
+      "stackLevel": [0, 2, 5, 10, 20, 30, 40, 60, 80, 100]
+    },
+    "champion": {
+      "loreName": "Champion",
+      "nbtName": "champion",
+      "nbtNum": "champion_combat_xp",
+      "goodLevel": 0,
+      "maxLevel": 10,
+      "statLabel": "championCombatXp",
+      "stackLevel": [0, 50000, 100000, 250000, 500000, 1000000, 1500000, 2000000, 2500000, 3000000]
     }
   }
 }
