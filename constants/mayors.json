@@ -148,6 +148,25 @@
     "special": false
   },
   {
+    "name": "Finnegan",
+    "role": "",
+    "perks": [
+      {
+        "name": "Pelt-pocalypse",
+        "description": "Obtain 1.5x more pelts from §aTrevor in the §eMushroom Desert§7, hunt a new trapper mob, and purchase items from a new trapper shop."
+      },
+      {
+        "name": "Farming Simulator",
+        "description": "There is a 25% chance for Mathematical Hoes and the Cultivating Enchantment to count twice."
+      },
+      {
+        "name": "GOATed",
+        "description": "Jacob's Farming Contest brackets include 10% more players each."
+      }
+    ],
+    "special": false
+  },
+  {
     "name": "Scorpius",
     "role": "",
     "perks": [
