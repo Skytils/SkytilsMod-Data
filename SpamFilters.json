@@ -86,7 +86,7 @@
   {
     "name": "Wither Essence and Oruo",
     "type": "REGEX",
-    "pattern": "§r§.+ §r§ffound a §r§dWither Essence§r§f! Everyone gains an extra essence!§r|§r§4\[STATUE\] Oruo the Omniscient§r§f:",
+    "pattern": "§r§.+ §r§ffound a §r§dWither Essence§r§f! Everyone gains an extra essence!§r|§r§4[STATUE] Oruo the Omniscient§r§f:",
     "formatted": true
   },
   {
